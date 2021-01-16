@@ -1,4 +1,5 @@
 # how-to-npm
+![CI](https://github.com/Balazska/how-to-npm/workflows/CI/badge.svg?branch=main)
 
 ## Goal
 I have created this package to practice how to create npm packages and how to maintain them.
