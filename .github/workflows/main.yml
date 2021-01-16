@@ -28,7 +28,7 @@ jobs:
           node-version: 12.x
       # Runs a single command using the runners shell
       - name: Init
-        run: npm init
+        run: npm install
 
       # Runs a set of commands using the runners shell
       - name: test
