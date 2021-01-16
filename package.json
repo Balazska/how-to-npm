@@ -1,0 +1,26 @@
+{
+    "name": "@balazska/how-to-npm",
+    "version": "1.0.0",
+    "description": "This is a simple npm package for practice",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Balazska/how-to-npm.git"
+    },
+    "keywords": [
+        "demo",
+        "simple"
+    ],
+    "author": "Balazs Fodor",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Balazska/how-to-npm/issues"
+    },
+    "homepage": "https://github.com/Balazska/how-to-npm#readme",
+    "devDependencies": {
+        "jest": "^26.6.3"
+    }
+}
