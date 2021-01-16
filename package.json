@@ -1,6 +1,6 @@
 {
     "name": "@balazska/how-to-npm",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "This is a simple npm package for practice",
     "main": "index.js",
     "scripts": {
